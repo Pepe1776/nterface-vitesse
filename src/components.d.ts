@@ -9,12 +9,14 @@ declare module 'vue' {
     CarbonLanguage: typeof import('~icons/carbon/language')['default']
     CarbonLogoGithub: typeof import('~icons/carbon/logo-github')['default']
     CarbonMoon: typeof import('~icons/carbon/moon')['default']
-    CarbonPedestrian: typeof import('~icons/carbon/pedestrian')['default']
     CarbonSun: typeof import('~icons/carbon/sun')['default']
-    CarbonWarning: typeof import('~icons/carbon/warning')['default']
     Counter: typeof import('./components/Counter.vue')['default']
+    EmojioneFallenLeaf: typeof import('~icons/emojione/fallen-leaf')['default']
     Footer: typeof import('./components/Footer.vue')['default']
+    Nav: typeof import('./components/Nav.vue')['default']
+    NotoPottedPlant: typeof import('~icons/noto/potted-plant')['default']
     README: typeof import('./components/README.md')['default']
+    TwemojiPottedPlant: typeof import('~icons/twemoji/potted-plant')['default']
   }
 }
 
